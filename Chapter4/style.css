@@ -25,12 +25,17 @@
 .box3_right {
   width: 230px; /* 横幅いっぱい */
   height: 1400px; /* 高さ1400px（多めに設定） */
-  background-color: greenyellow; /* greenyellow */
+  background-color: palegreen; /* greenyellow */
+}
+.box3_center {
+  width: 500px;
+  height: 1400px;
+  background-color: limegreen;
 }
 .box3_left {
   width: 230px; /* 横幅いっぱい */
   height: 1400px; /* 高さ1400px（多めに設定） */
-  background-color: greenyellow; /* greenyellow */
+  background-color: palegreen; /* greenyellow */
 }
 .box4 {
   width: 100%; /* 横幅いっぱい */
